@@ -1,0 +1,18 @@
+.main {
+  padding: 32px 24px;
+}
+
+.search {
+  background: #9aa4ad;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 0 40px;
+}
+
+.searchTitle {
+  color: #fff;
+  font-size: 24px;
+}
